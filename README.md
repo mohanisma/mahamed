@@ -1,5 +1,4 @@
-name : mohamed ismail mohamud
-id: c119888
+
 
 # new_project
 
